@@ -71,4 +71,4 @@ Create your own haproxy.pem and run the docker container like this:
 ##Repositories
 
 * [Github](https://github.com/infobip/infobip-client-api-balancer) 
-* [Dockethub](https://hub.docker.com/mstipanov/infobip-client-api-balancer) 
+* [Dockethub](https://hub.docker.com/r/mstipanov/infobip-client-api-balancer) 
