@@ -4,11 +4,11 @@
 
 Infobip client API balancer balances your Infobip REST API calls. It gives your service security that it will be able to access Infobip REST API even if one Infobip's data center goes down or there is an ISP routes issue.
 
-Infobip client API balancer balances API calls to multiple datacenters seamlesly and without any configuration needed.
+Infobip client API balancer balances API calls to multiple data centers seamlessly and without any configuration needed.
 
-* comes precofigured for your convenince
+* comes preconfigured for your convenience
 * works out of the box
-* uses the best DC optionf for your cenvenience
+* uses the best DC option for your convenience
 * automatic retry on any error
 * based on proven [HAProxy](https://www.haproxy.org/)
 
